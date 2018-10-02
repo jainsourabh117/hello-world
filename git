@@ -1,0 +1,10 @@
+git is revision control system and gitHub is the hosting service.
+
+git commit -> commit changes to the master/branch.
+git branch <branchName> -> create a new branch.
+git checkout <branchName> -> checkout the branch as the current working set.
+git merge <branchName> -> merge changes in a branch to the master.
+git rebase <master/another branch> -> moving or combining a sequence of commits to a new base commit.
+
+
+
